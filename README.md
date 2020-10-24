@@ -1,4 +1,4 @@
-# monogame.1stXnaGame-Port
+# Monogame 3.8 - FirstXnaGame - XNA Port
 Platform: Monogame 3.8
 Created: 2012
 Port from XNA 4
